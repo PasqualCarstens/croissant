@@ -12,10 +12,10 @@ img {
   text-align: center;
 }
 
-a:link {
+.primary-link:link {
   color: green;
 }
 
-a:visited {
+.primary-link:visited {
   color: green;
 }
