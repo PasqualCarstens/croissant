@@ -1,3 +1,21 @@
 body {
   background-color: #f8e49d;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+img {
+  transform: rotateZ(90deg);
+}
+
+.navigation-links {
+  text-align: center;
+}
+
+a:link {
+  color: green;
+}
+
+a:visited {
+  color: green;
 }
